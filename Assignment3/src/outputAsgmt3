@@ -1,0 +1,75 @@
+!! CUSTOMER INFORMATION !!
+Enter your name : TAN JIA KEE
+Name :TAN JIA KEE
+Enter your No. IC : 001026070934
+H/P : 001026070934
+Enter your No. H/P : 0184055998
+H/P : 0184055998
+-------------------------------
+!! HERE IS THE PRODUCTS AND THEIR DESCRIPTION !!
+The brand of product: Faber Castle
+The type of product: ballpoint pen
+The colour of product: blue , black , red
+The witdh of product: 0.5 mm & 0.7 mm
+The price of product: RM1.31 / pcs
+
+The brand of product: Pilot G2
+The type of product: gel ball pen
+The colour of product: blue , black , red
+The witdh of product: 0.5 mm & 0.7 mm & 1.0 mm
+The price of product: RM3.40 / pcs
+
+The brand of product: Zhi Xin
+The type of product: gel ink pen
+The colour of product: blue , black , red
+The witdh of product: 0.7 mm
+The price of product: RM 0.80 / pcs
+
+-------------------------------
+!! PURCHASED !!
+Enter the number of item: 5
+Item 1
+Enter brand: FABERCASTLE
+Enter price: RM1.31
+Enter colour: BLUE
+Enter witdh : 0.7
+Enter quantity : 10
+Total price: RM 13.10
+ 
+Item 2
+Enter brand: FABERCASTLE
+Enter price: RM1.31
+Enter colour: BLACK
+Enter witdh : 0.5
+Enter quantity : 5
+Total price: RM 6.55
+ 
+Item 3
+Enter brand: PILOTG2
+Enter price: RM3.40
+Enter colour: BLACK
+Enter witdh : 0.5
+Enter quantity : 8
+Total price: RM 27.20
+ 
+Item 4
+Enter brand: PILOTG2
+Enter price: RM3.40
+Enter colour: BLUE
+Enter witdh : 1.0
+Enter quantity : 3
+Total price: RM 10.20
+ 
+Item 5
+Enter brand: ZHIXIN
+Enter price: RM0.80
+Enter colour: RED
+Enter witdh : 0.7
+Enter quantity : 15
+Total price: RM 12.00
+ 
+Total amount of items : RM69.05
+Discount received: RM 6.91
+Price to be paid: RM 62.14
+
+THANK YOU AND COME AGAIN!!
